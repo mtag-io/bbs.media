@@ -1,5 +1,5 @@
 <script>
-    import Logo from '../lib/components/branding/logo.svelte'
+    import Logo from '../lib/components/branding/Logo.svelte'
 </script>
 <svelte:head>
     <title>Home</title>
