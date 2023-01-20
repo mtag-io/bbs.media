@@ -1,9 +1,9 @@
-name: GoLive
+name: Release
 
 on:
   push:
     branches:
-      - deploy
+      - release
 
 jobs:
   deploy:
