@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="767bf634-237f-4f44-91d6-003a3e39db42" name="m-tag.cloud">
+        <fileTransfer rootFolder="/web/bbs.media/public_html" accessType="SFTP" host="cp.m-tag.cloud" port="22" sshConfigId="eed4bae1-6db4-4557-80ea-4c22442aea2f" sshConfig="roboBBS@cp.m-tag.cloud:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

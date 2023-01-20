@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="cp.m-tag.cloud" id="eed4bae1-6db4-4557-80ea-4c22442aea2f" port="22" nameFormat="DESCRIPTIVE" username="roboBBS" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
